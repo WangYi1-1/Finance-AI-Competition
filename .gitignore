@@ -1,0 +1,22 @@
+# 仅跟踪这次审核过的展示成果；用户运行目录不在仓库内。
+.venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+.pytest_cache/
+*.pyc
+.streamlit/secrets.toml
+tmp/
+uploads/
+data/uploads/
+deploy/
+/output/*
+!/output/20261010T103556Z_replay_c36a2deb/
+!/output/member_yili/
+/output/member_yili/*
+!/output/member_yili/20261010T103532Z_replay_1037a844/
+!/output/yili_validation_20261009/
+/output/yili_validation_20261009/*
+!/output/yili_validation_20261009/manual_reference.json
+!/output/yili_validation_20261009/manual_reference_brief.md

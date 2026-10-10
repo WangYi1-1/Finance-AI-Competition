@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "run_id": "20261010T103556Z_replay_c36a2deb",
+  "sealed_at_utc": "2026-10-10T10:36:03.094322+00:00",
+  "code_sha256": "e18e3d56b7c433c88a3dfa6f03a2a326f90f0a5f80df42e5344fa0e42046cd10",
+  "files": [
+    {
+      "file": "result.json",
+      "bytes": 1659130,
+      "sha256": "2e63f86b24a4269eb074476a10aebadff0d4ef747c755fec07e51ae01382147e"
+    },
+    {
+      "file": "report.md",
+      "bytes": 238938,
+      "sha256": "da53dd46bc0f92ce2bdefb5bb47038e368ae09d1aae581bcfe13ce319dc89cd6"
+    },
+    {
+      "file": "metrics.csv",
+      "bytes": 19381,
+      "sha256": "6e9e26955c358b157c1f2cac29b5c29af42953b69fd1a5308514305eb5487009"
+    },
+    {
+      "file": "analysis.xlsx",
+      "bytes": 25265,
+      "sha256": "83c6b440c1f1b6265e3422c7b8bf1db1c13438600c962c16815bfe2cea6a54cf"
+    },
+    {
+      "file": "trace.jsonl",
+      "bytes": 1092855,
+      "sha256": "2e94107c8e0e53cb01bb90fed18e2d21d5a33e7ae2c23a2e214cd9a08f949479"
+    },
+    {
+      "file": "sources/3017cc413c5421f4.pdf",
+      "bytes": 517846,
+      "sha256": "3017cc413c5421f412bfe95362e323583d24fe1139dab8b9f2245124a03699aa"
+    },
+    {
+      "file": "sources/33a8158ad9e08c22.pdf",
+      "bytes": 391584,
+      "sha256": "33a8158ad9e08c22a916c80e9d18f4a6209f60e1a15d6c292b12ce1b297cf506"
+    },
+    {
+      "file": "sources/c155b315f64ba6e1.pdf",
+      "bytes": 418841,
+      "sha256": "c155b315f64ba6e16624e4bdfc0a1f6a5817c0a71fb27a2aa0cce15b3dfd9679"
+    },
+    {
+      "file": "sources/cb11ba3671777e69.pdf",
+      "bytes": 496176,
+      "sha256": "cb11ba3671777e6981942410253b36184133333af76f4a6adedb4d1028624a43"
+    },
+    {
+      "file": "sources/dcc962ffdb9a7f8d.pdf",
+      "bytes": 385443,
+      "sha256": "dcc962ffdb9a7f8dde5b3143d3d22663adea2447fea86af29f0e865b715ee0bc"
+    },
+    {
+      "file": "sources/e7232fe21735953e.pdf",
+      "bytes": 681488,
+      "sha256": "e7232fe21735953ec76f43320aad74515039d590680c2eaa2a1834e744678a99"
+    },
+    {
+      "file": "history/previous_result.json",
+      "bytes": 1658909,
+      "sha256": "70536f21475858b7a220a0b762992e5b890acdc4038d8c66513b23e792e7b78f"
+    },
+    {
+      "file": "history/previous_trace.jsonl",
+      "bytes": 1092657,
+      "sha256": "c8c016481ee65f1798ad8fca230f5855fe9602ec499839f643f996d29663d786"
+    },
+    {
+      "file": "history/20261003T092844Z_a27d24a4/result.json",
+      "bytes": 1304464,
+      "sha256": "5251803210b7e7ebee75b3102f45bd6101c783eebc6defec254c4ee13223c8ac"
+    },
+    {
+      "file": "history/20261003T092844Z_a27d24a4/trace.jsonl",
+      "bytes": 1546549,
+      "sha256": "2ba43b0013e4e61090410a78ce9df8e6c3d2b18f3d89cdf453b679a634e80461"
+    },
+    {
+      "file": "history/20261003T121104Z_3a592051/result.json",
+      "bytes": 264277,
+      "sha256": "8f092f8597f7dcf8df12051a4ce56ef2d6ee3db6d0a41298a9f4545ebe8799c3"
+    },
+    {
+      "file": "history/20261003T121104Z_3a592051/trace.jsonl",
+      "bytes": 348179,
+      "sha256": "300b3b62a01e870593f5abfcdb1306b23086b1e94990b938a7ef4e54b71e74e1"
+    }
+  ],
+  "note": "清单记录最终产物，排除自身以避免循环；不再向已封存日志追加事件。"
+}

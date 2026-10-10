@@ -1,0 +1,8 @@
+{
+  "dataset_role": "holdout_pending",
+  "frozen_at_utc": null,
+  "labelers": [],
+  "fields": [],
+  "comparisons": [],
+  "signals": []
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "run_id": "20261010T103532Z_replay_1037a844",
+  "sealed_at_utc": "2026-10-10T10:35:56.651532+00:00",
+  "code_sha256": "e18e3d56b7c433c88a3dfa6f03a2a326f90f0a5f80df42e5344fa0e42046cd10",
+  "files": [
+    {
+      "file": "result.json",
+      "bytes": 10966855,
+      "sha256": "8aed681e0a3782bc89317998459a66244c99c1999375d2e2c7430ab62f81160e"
+    },
+    {
+      "file": "report.md",
+      "bytes": 220263,
+      "sha256": "fe7b0074d03a7c7c0beb6c2ce6c3698c97b8ab15d92f3c79310cdc34e4a70bff"
+    },
+    {
+      "file": "metrics.csv",
+      "bytes": 24472,
+      "sha256": "024f4dac7d7baee776f9a212188878ee33eccbdcebd00614c93b5662906fa3d4"
+    },
+    {
+      "file": "analysis.xlsx",
+      "bytes": 23107,
+      "sha256": "0adcd74dfd9129a7b7c1e0d0ef13147af7d0fa63c4f70b4ee7e234a6fe707df0"
+    },
+    {
+      "file": "trace.jsonl",
+      "bytes": 7696105,
+      "sha256": "7a0065f62ef6698867dbc771f6a8dfb422a0d99fc99ba4bbad7e1300a01f3e9b"
+    },
+    {
+      "file": "sources/412c9bf0ad96d7f8.pdf",
+      "bytes": 1490695,
+      "sha256": "412c9bf0ad96d7f8f67d529d65eb7ca473e4b5a6fb035495646405a761955c6e"
+    },
+    {
+      "file": "sources/9c4f934fd1253ae8.pdf",
+      "bytes": 1590787,
+      "sha256": "9c4f934fd1253ae881af5432963537d2e21e7b992fa8b5f4bc36d61af04dfaab"
+    },
+    {
+      "file": "history/previous_result.json",
+      "bytes": 10966634,
+      "sha256": "182d204cf0e5d68f8ba4e38582769a6f61a7f6279fdbe2ef6f380d5f63d46439"
+    },
+    {
+      "file": "history/previous_trace.jsonl",
+      "bytes": 7695907,
+      "sha256": "f0910e216b4b1f8cdbcf4ae979a60f555de97dda6b7b30c19d9fe2bc47034bc5"
+    },
+    {
+      "file": "history/20261009T054845Z_8a0979fc/result.json",
+      "bytes": 10826922,
+      "sha256": "d1f68a0f13edd5bd9113279352e5de86feaac4425887159d9c4d51d58382eba4"
+    },
+    {
+      "file": "history/20261009T054845Z_8a0979fc/trace.jsonl",
+      "bytes": 8414651,
+      "sha256": "5735033bb1c9b634d4db54b92a239c05e1f8feb1facfc6f3d5a10893683fcaec"
+    }
+  ],
+  "note": "清单记录最终产物，排除自身以避免循环；不再向已封存日志追加事件。"
+}

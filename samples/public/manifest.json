@@ -1,0 +1,190 @@
+{
+  "description": "人工按原始公开财报核对的小样本；金额为人民币元，不是整体准确率评测。",
+  "samples": [
+    {
+      "id": "huahong_2024q1",
+      "file": "华虹公司_2024第一季度报告.pdf",
+      "company": "华虹半导体有限公司",
+      "period_start": "2024-01-01",
+      "period_end": "2024-03-31",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2024/0509/2024050901006_c.pdf",
+      "sha256": "cb11ba3671777e6981942410253b36184133333af76f4a6adedb4d1028624a43",
+      "currency": "CNY",
+      "scope": "consolidated",
+      "accounting_standard": "中国会计准则",
+      "expected_metrics_yuan": {
+        "revenue": "3297290706.10",
+        "parent_net_profit": "221743445.57",
+        "adjusted_parent_net_profit": "209209204.92",
+        "operating_cashflow": "443549494.96",
+        "net_profit": "-183598290.08",
+        "nonrecurring_total_parent": "12534240.65"
+      },
+      "pdf_pages": {
+        "core": 4,
+        "net_profit": 14,
+        "nonrecurring": 5
+      },
+      "limitations": []
+    },
+    {
+      "id": "huahong_2024h1",
+      "file": "华虹公司_2024半年度报告摘要.pdf",
+      "company": "华虹半导体有限公司",
+      "period_start": "2024-01-01",
+      "period_end": "2024-06-30",
+      "url": "https://big5.sse.com.cn/site/cht/www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2024-08-30/688347_20240830_SE0Q.pdf",
+      "sha256": "dcc962ffdb9a7f8dde5b3143d3d22663adea2447fea86af29f0e865b715ee0bc",
+      "currency": "CNY",
+      "scope": "consolidated",
+      "accounting_standard": "中国会计准则",
+      "expected_metrics_yuan": {
+        "revenue": "6732158761.10",
+        "parent_net_profit": "264916278.85",
+        "adjusted_parent_net_profit": "233848615.27",
+        "operating_cashflow": "1328909045.07"
+      },
+      "pdf_pages": {
+        "core": 3
+      },
+      "limitations": [
+        "摘要未提供合并净利润和完整附注"
+      ]
+    },
+    {
+      "id": "huahong_2024q3",
+      "file": "华虹公司_2024第三季度报告.pdf",
+      "company": "华虹半导体有限公司",
+      "period_start": "2024-01-01",
+      "period_end": "2024-09-30",
+      "url": "https://big5.sse.com.cn/site/cht/www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2024-11-08/688347_20241108_7OKC.pdf",
+      "sha256": "c155b315f64ba6e16624e4bdfc0a1f6a5817c0a71fb27a2aa0cce15b3dfd9679",
+      "currency": "CNY",
+      "scope": "consolidated",
+      "accounting_standard": "中国会计准则",
+      "expected_metrics_yuan": {
+        "revenue": "10502282877.64",
+        "parent_net_profit": "577927957.36",
+        "adjusted_parent_net_profit": "464617538.08",
+        "operating_cashflow": "1295515635.81",
+        "net_profit": "-327805225.06",
+        "nonrecurring_total_parent": "113310419.28"
+      },
+      "pdf_pages": {
+        "core": 3,
+        "net_profit": 13,
+        "nonrecurring": 4
+      },
+      "limitations": []
+    },
+    {
+      "id": "tcl_2024q3",
+      "file": "TCL科技_2024第三季度报告.pdf",
+      "company": "TCL科技集团股份有限公司",
+      "period_start": "2024-01-01",
+      "period_end": "2024-09-30",
+      "url": "https://static.cninfo.com.cn/finalpage/2024-10-30/1221556084.PDF",
+      "sha256": "e7232fe21735953ec76f43320aad74515039d590680c2eaa2a1834e744678a99",
+      "currency": "CNY",
+      "scope": "consolidated",
+      "accounting_standard": "中国会计准则",
+      "expected_metrics_yuan": {
+        "revenue": "123028497947",
+        "parent_net_profit": "1525319763",
+        "adjusted_parent_net_profit": "728668028",
+        "operating_cashflow": "22000714536",
+        "net_profit": "-1829006223",
+        "nonrecurring_total_parent": "796651735"
+      },
+      "pdf_pages": {
+        "core": 5,
+        "net_profit": 16,
+        "nonrecurring": 5
+      },
+      "limitations": []
+    },
+    {
+      "id": "iflytek_2024q3",
+      "file": "科大讯飞_2024第三季度报告.pdf",
+      "company": "科大讯飞股份有限公司",
+      "period_start": "2024-01-01",
+      "period_end": "2024-09-30",
+      "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2024-10-19/ae61aafd-1b87-466c-961c-62d24101fec1.PDF",
+      "sha256": "33a8158ad9e08c22a916c80e9d18f4a6209f60e1a15d6c292b12ce1b297cf506",
+      "currency": "CNY",
+      "scope": "consolidated",
+      "accounting_standard": "中国会计准则",
+      "expected_metrics_yuan": {
+        "revenue": "14849536928.14",
+        "parent_net_profit": "-343704233.43",
+        "adjusted_parent_net_profit": "-468232524.49",
+        "operating_cashflow": "-820935015.09",
+        "net_profit": "-423226905.19",
+        "nonrecurring_total_parent": "124528291.06"
+      },
+      "pdf_pages": {
+        "core": 2,
+        "net_profit": 8,
+        "nonrecurring": 3
+      },
+      "limitations": []
+    },
+    {
+      "id": "inspur_2024q3",
+      "file": "浪潮信息_2024第三季度报告.pdf",
+      "company": "浪潮电子信息产业股份有限公司",
+      "period_start": "2024-01-01",
+      "period_end": "2024-09-30",
+      "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2024-10-31/3b267a0b-b19d-4c63-aaf0-b6ab49acdf96.PDF",
+      "sha256": "3017cc413c5421f412bfe95362e323583d24fe1139dab8b9f2245124a03699aa",
+      "currency": "CNY",
+      "scope": "consolidated",
+      "accounting_standard": "中国会计准则",
+      "expected_metrics_yuan": {
+        "revenue": "83125748346.36",
+        "parent_net_profit": "1294269240.41",
+        "adjusted_parent_net_profit": "1155439085.47",
+        "operating_cashflow": "-9387282700.88",
+        "net_profit": "1278368505.95",
+        "nonrecurring_total_parent": "138830154.94"
+      },
+      "pdf_pages": {
+        "core": 2,
+        "net_profit": 10,
+        "operating_cashflow": 12,
+        "nonrecurring": 3
+      },
+      "limitations": []
+    }
+  ],
+  "huahong_2024q3_qoq": {
+    "base_period_start": "2024-04-01",
+    "base_period_end": "2024-06-30",
+    "current_period_start": "2024-07-01",
+    "current_period_end": "2024-09-30",
+    "expected": {
+      "revenue": {
+        "base_yuan": "3434868055.00",
+        "current_yuan": "3770124116.54",
+        "percent_rounded": "9.76"
+      },
+      "parent_net_profit": {
+        "base_yuan": "43172833.28",
+        "current_yuan": "313011678.51",
+        "percent_rounded": "625.02"
+      },
+      "adjusted_parent_net_profit": {
+        "base_yuan": "24639410.35",
+        "current_yuan": "230768922.81",
+        "percent_rounded": "836.58"
+      },
+      "operating_cashflow": {
+        "base_yuan": "885359550.11",
+        "current_yuan": "-33393409.26",
+        "status": "cashflow_to_outflow",
+        "percent_rounded": null,
+        "delta_yuan": "-918752959.37"
+      }
+    }
+  }
+}
